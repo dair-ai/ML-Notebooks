@@ -12,7 +12,7 @@ The notebooks are meant to be minimal and easily reusable and extendable.
   
   <tr>
     <td class="tg-yw4l">First Neural Network - Image Classifier</td>
-    <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1AWXvwvyoOczCugTTULLbIPYIh2_GS2Aq">
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1i94k-n97Z5r1KWV9Vly9IiKnYxf3Tfvu?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
 </a></td>
   </tr>
