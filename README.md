@@ -17,4 +17,11 @@ The notebooks are meant to be minimal and easily reusable and extendable.
 </a></td>
   </tr>
   
+  <tr>
+    <td class="tg-yw4l">A Gentle Introduction to PyTorch</td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1K7Ks1ERaS-w4rzW_ukeBag8mYRZME1es?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
+</a></td>
+  </tr>
+  
  </table> 
