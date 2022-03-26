@@ -13,6 +13,14 @@ Feel free to use them for educational and research purposes.
   </tr>
   
   <tr>
+    <td class="tg-yw4l">PyTorch Hello World!</td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1ac0K9_aa46c77XEeYtaMAfSOfmH1Bl9L?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
+</a></td>
+  </tr>
+  
+  
+  <tr>
     <td class="tg-yw4l">First Neural Network - Image Classifier</td>
     <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1i94k-n97Z5r1KWV9Vly9IiKnYxf3Tfvu?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
