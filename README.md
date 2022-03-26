@@ -2,6 +2,8 @@
 
 A series of code examples for all sorts of machine learning tasks and applications.
 
+The notebooks are meant to be minimal and easily reusable and extendable. 
+
 <table class="tg">
   <tr>
     <th class="tg-yw4l"><b>Name</b></th>
