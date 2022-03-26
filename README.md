@@ -4,6 +4,8 @@ A series of code examples for all sorts of machine learning tasks and applicatio
 
 The notebooks are meant to be minimal and easily reusable and extendable. 
 
+Feel free to use them for educational and research purposes.
+
 <table class="tg">
   <tr>
     <th class="tg-yw4l"><b>Name</b></th>
@@ -25,3 +27,15 @@ The notebooks are meant to be minimal and easily reusable and extendable.
   </tr>
   
  </table> 
+
+
+Please cite the following if you use the code examples in your research:
+
+```
+@misc{saravia2022ml,
+  title={ML Notebooks},
+  author={Saravia, Elvis},
+  journal={https://github.com/dair-ai/ML-Notebooks},
+  year={2022}
+}
+```
