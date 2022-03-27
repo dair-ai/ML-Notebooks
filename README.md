@@ -48,8 +48,15 @@ All notebooks are using PyTorch. Contributions welcome.
 </a></td>
   </tr>
   
+  <tr>
+    <td class="tg-yw4l">Neural Network from Scratch</td>
+    <td class="tg-yw4l">An implementation of simple neural network from scratch</td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1YBcEZMUHhJUiwOIwQbqwmAAGrRznpP_E?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
+</a></td>
+  </tr>
+  
  </table> 
-
 
 Please cite the following if you use the code examples in your research:
 
