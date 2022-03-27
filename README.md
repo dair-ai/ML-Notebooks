@@ -40,6 +40,14 @@ All notebooks are using PyTorch. Contributions welcome.
 </a></td>
   </tr>
   
+  <tr>
+    <td class="tg-yw4l">Logistic Regression from Scratch</td>
+    <td class="tg-yw4l">An implementation of logistic regression from scratch</td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1iBoJ0kngkOthy7SgVaVQA1aHEROt5mra?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
+</a></td>
+  </tr>
+  
  </table> 
 
 
