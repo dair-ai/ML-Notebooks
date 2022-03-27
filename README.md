@@ -16,13 +16,20 @@ All notebooks are using PyTorch. Contributions welcome.
   </tr>
   
   <tr>
+    <td class="tg-yw4l">Introduction to Computational Graphs</td>
+    <td class="tg-yw4l">A basic tutorial to learn about computational graphs</td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1eG1AF36Wa0EaANandAhrsbC3j04487SH?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
+</a></td>
+  </tr>
+  
+  <tr>
     <td class="tg-yw4l">PyTorch Hello World!</td>
     <td class="tg-yw4l">Build a simple neural network and train it</td>
     <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1ac0K9_aa46c77XEeYtaMAfSOfmH1Bl9L?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
 </a></td>
   </tr>
-  
   
   <tr>
     <td class="tg-yw4l">First Neural Network - Image Classifier</td>
