@@ -64,6 +64,14 @@ All notebooks are using PyTorch. Contributions welcome.
 </a></td>
   </tr>
   
+  <tr>
+    <td class="tg-yw4l">Emotion Classification with Fine-tune BERT</td>
+    <td class="tg-yw4l">Emotion classification using fine-tuned BERT model</td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1nwCE6b9PXIKhv2hvbqf1oZKIGkXMTi1X?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
+</a></td>
+  </tr>
+  
  </table> 
 
 Please cite the following if you use the code examples in your research:
