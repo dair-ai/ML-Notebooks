@@ -79,6 +79,22 @@ All notebooks are using PyTorch. Contributions welcome.
 </a></td>
   </tr>
   
+   <tr>
+    <td class="tg-yw4l">Text Classification  using Attention Mechanism and Positional Embeddings</td>
+    <td class="tg-yw4l">An implementation of Attention Mechanism and Positional Embeddings on a text classification  task</td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1Jc-_kcO3xYHDMFYSsIcUimcc38_WFlyh?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
+</a></td>
+  </tr>
+
+   <tr>
+    <td class="tg-yw4l">Siamese Network</td>
+    <td class="tg-yw4l">An implementation of Siamese Network for finding Image Similarity</td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1sn7BDKVvi8-Ng37gvfyNw8OCf8kZY91o?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
+</a></td>
+  </tr>  
+  
  </table> 
 
 Reach out on [Twitter](https://twitter.com/omarsar0) if you have any questions. 
