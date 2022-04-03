@@ -6,8 +6,6 @@ The notebooks are meant to be minimal and easily reusable and extendable.
 
 Feel free to use them for educational and research purposes.
 
-All notebooks are using PyTorch. Contributions welcome. 
-
 <table class="tg">
   <tr>
     <th class="tg-yw4l"><b>Name</b></th>
@@ -104,7 +102,7 @@ Please cite the following if you use the code examples in your research:
 ```
 @misc{saravia2022ml,
   title={ML Notebooks},
-  author={Saravia, Elvis},
+  author={Saravia, Elvis and Rastogi, Ritvik},
   journal={https://github.com/dair-ai/ML-Notebooks},
   year={2022}
 }
