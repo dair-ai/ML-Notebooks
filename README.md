@@ -38,17 +38,26 @@ Feel free to use them for educational and research purposes.
   </tr>
   
   <tr>
-    <td class="tg-yw4l">First Neural Network - Image Classifier</td>
-    <td class="tg-yw4l">Build a minimal image classifier using MNIST</td>
-    <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1i94k-n97Z5r1KWV9Vly9IiKnYxf3Tfvu?usp=sharing">
+    <td class="tg-yw4l">Logistic Regression from Scratch</td>
+    <td class="tg-yw4l">An implementation of logistic regression from scratch</td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1iBoJ0kngkOthy7SgVaVQA1aHEROt5mra?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
 </a></td>
   </tr>
   
   <tr>
-    <td class="tg-yw4l">Logistic Regression from Scratch</td>
-    <td class="tg-yw4l">An implementation of logistic regression from scratch</td>
-    <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1iBoJ0kngkOthy7SgVaVQA1aHEROt5mra?usp=sharing">
+    <td class="tg-yw4l">Concise Logistic Regression</td>
+    <td class="tg-yw4l">Concise implementation of logistic regression model for image classification</td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/14hnFJvHDq9w7FGb8P6pd6-I7F3djTRG9?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
+</a></td>
+  </tr>
+  
+  
+  <tr>
+    <td class="tg-yw4l">First Neural Network - Image Classifier</td>
+    <td class="tg-yw4l">Build a minimal image classifier using MNIST</td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1i94k-n97Z5r1KWV9Vly9IiKnYxf3Tfvu?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
 </a></td>
   </tr>
