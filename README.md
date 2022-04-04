@@ -101,6 +101,15 @@ Feel free to use them for educational and research purposes.
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
 </a></td>
   </tr>  
+
+   <tr>
+    <td class="tg-yw4l">Variational Auto Encoder</td>
+    <td class="tg-yw4l">An implementation of Variational Auto Encoder to generate Augmentations for MNIST Handwritten Digits</td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/13na-qaRSMwD2jplXjg_oapPDmVozIzLL?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
+</a></td>
+  </tr>    
+
   
  </table> 
 
