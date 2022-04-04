@@ -47,7 +47,7 @@ Feel free to use them for educational and research purposes.
   
   <tr>
     <td class="tg-yw4l">Concise Logistic Regression</td>
-    <td class="tg-yw4l">Concise implementation of logistic regression model for image classification</td>
+    <td class="tg-yw4l">Concise implementation of logistic regression model for binary image classification.</td>
     <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/14hnFJvHDq9w7FGb8P6pd6-I7F3djTRG9?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
 </a></td>
