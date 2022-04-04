@@ -72,7 +72,7 @@ Feel free to use them for educational and research purposes.
   
   <tr>
     <td class="tg-yw4l">Introduction to GNNs</td>
-    <td class="tg-yw4l">Introduction to Graph Neural Networks</td>
+    <td class="tg-yw4l">Introduction to Graph Neural Networks. Applies basic GCN to Cora dataset for node classification.</td>
     <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1d0jLDwgNBtjBVQOFe8lO_1WrqTVeVZx9?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
 </a></td>
