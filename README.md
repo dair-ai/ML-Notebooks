@@ -110,6 +110,23 @@ Feel free to use them for educational and research purposes.
 </a></td>
   </tr>    
 
+   <tr>
+    <td class="tg-yw4l">Object Detection using Sliding Window and Image Pyramid</td>
+    <td class="tg-yw4l">A basic object detection implementation using sliding window and image pyramid on top of an image classifer</td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1CiLN6g7puBheHq-tfk4YB4X-Lgypur8M?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
+</a></td>
+  </tr>    
+  
+   <tr>
+    <td class="tg-yw4l">Object Detection using Selective Search</td>
+    <td class="tg-yw4l">A basic object detection implementation using selective search on top of an image classifer</td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1C7Zo5JRMrcETMxn-8jRuszrEXXjRbN37?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
+</a></td>
+  </tr>    
+  
+  
   
  </table> 
 
