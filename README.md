@@ -91,7 +91,8 @@ Feel free to use them for educational and research purposes.
     <td class="tg-yw4l">An implementation of Attention Mechanism and Positional Embeddings on a text classification  task</td>
     <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1Jc-_kcO3xYHDMFYSsIcUimcc38_WFlyh?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
-</a></td>
+</a><br>
+      <a href="https://www.kaggle.com/code/ritvik1909/text-classification-attention" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"></a></td>
   </tr>
 
    <tr>
@@ -99,7 +100,8 @@ Feel free to use them for educational and research purposes.
     <td class="tg-yw4l">An implementation of Siamese Network for finding Image Similarity</td>
     <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1sn7BDKVvi8-Ng37gvfyNw8OCf8kZY91o?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
-</a></td>
+</a><br>
+     <a href="https://kaggle.com/code/ritvik1909/siamese-network" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"></a></td>
   </tr>  
 
    <tr>
@@ -107,7 +109,8 @@ Feel free to use them for educational and research purposes.
     <td class="tg-yw4l">An implementation of Variational Auto Encoder to generate Augmentations for MNIST Handwritten Digits</td>
     <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/13na-qaRSMwD2jplXjg_oapPDmVozIzLL?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
-</a></td>
+</a><br>
+     <a href="https://www.kaggle.com/code/ritvik1909/variational-auto-encoder" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"></a></td>
   </tr>    
 
    <tr>
@@ -115,7 +118,8 @@ Feel free to use them for educational and research purposes.
     <td class="tg-yw4l">A basic object detection implementation using sliding window and image pyramid on top of an image classifer</td>
     <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1CiLN6g7puBheHq-tfk4YB4X-Lgypur8M?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
-</a></td>
+</a><br>
+     <a href="https://www.kaggle.com/code/ritvik1909/object-detection-sliding-window" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"></a></td>
   </tr>    
   
    <tr>
@@ -123,7 +127,8 @@ Feel free to use them for educational and research purposes.
     <td class="tg-yw4l">A basic object detection implementation using selective search on top of an image classifer</td>
     <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1C7Zo5JRMrcETMxn-8jRuszrEXXjRbN37?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
-</a></td>
+</a><br>
+     <a href="https://www.kaggle.com/code/ritvik1909/object-detection-selective-search" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"></a></td>
   </tr>    
   
   
