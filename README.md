@@ -4,7 +4,7 @@ A series of code examples for all sorts of machine learning tasks and applicatio
 
 The notebooks are meant to be minimal and easily reusable and extendable. 
 
-Feel free to use them for educational and research purposes.
+You are free to use them for educational and research purposes.
 
 <table class="tg">
   <tr>
