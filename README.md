@@ -87,7 +87,7 @@ You are free to use them for educational and research purposes.
   </tr>
   
    <tr>
-    <td class="tg-yw4l">Text Classification  using Attention Mechanism and Positional Embeddings</td>
+    <td class="tg-yw4l">Text Classification using Transformer</td>
     <td class="tg-yw4l">An implementation of Attention Mechanism and Positional Embeddings on a text classification  task</td>
     <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1Jc-_kcO3xYHDMFYSsIcUimcc38_WFlyh?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
@@ -130,6 +130,15 @@ You are free to use them for educational and research purposes.
 </a><br>
      <a href="https://www.kaggle.com/code/ritvik1909/object-detection-selective-search" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"></a></td>
   </tr>    
+
+   <tr>
+    <td class="tg-yw4l">Neural Machine Translation using Transformer</td>
+    <td class="tg-yw4l">An implementation of Transformer to translate human readabke dates in any format to YYYY-MM-DD format.</td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1Y6JhWMmgU52MU9vyrOnHf6iK760Qx35h?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
+</a><br>
+     <a href="https://www.kaggle.com/code/ritvik1909/neural-machine-translation-attention" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"></a></td>
+  </tr>   
   
   
   
