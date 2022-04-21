@@ -141,7 +141,7 @@ You are free to use them for educational and research purposes.
   </tr>   
   
   <tr>
-    <td class="tg-yw4l">Countefactual Explanations</td>
+    <td class="tg-yw4l">Counterfactual Explanations</td>
     <td class="tg-yw4l">A basic tutorial to learn about counterfactual explanations for explainable AI</td>
     <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1mTSRjqki3VsH9MVPfNtJ5nJxcCHvL8B6?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
