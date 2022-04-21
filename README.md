@@ -142,7 +142,7 @@ You are free to use them for educational and research purposes.
 
    <tr>
     <td class="tg-yw4l">Feature Tokenizer Transformer</td>
-    <td class="tg-yw4l">An implementation of Feature Tokenizer Transformer on a regression task</td>
+    <td class="tg-yw4l">An implementation of Feature Tokenizer Transformer on a classification task</td>
     <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1tdPifaZCTVpjzCh1FOyGPywMEfrbBZLh?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
 </a><br>
