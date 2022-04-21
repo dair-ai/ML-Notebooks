@@ -140,6 +140,7 @@ You are free to use them for educational and research purposes.
      <a href="https://www.kaggle.com/code/ritvik1909/neural-machine-translation-attention" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"></a></td>
   </tr>   
 
+
    <tr>
     <td class="tg-yw4l">Feature Tokenizer Transformer</td>
     <td class="tg-yw4l">An implementation of Feature Tokenizer Transformer on a classification task</td>
@@ -149,6 +150,13 @@ You are free to use them for educational and research purposes.
      <a href="https://www.kaggle.com/code/ritvik1909/feature-tokenizer-transformer/" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"></a></td>
   </tr>     
   
+   <tr>
+    <td class="tg-yw4l">Counterfactual Explanations</td>
+    <td class="tg-yw4l">A basic tutorial to learn about counterfactual explanations for explainable AI</td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1mTSRjqki3VsH9MVPfNtJ5nJxcCHvL8B6?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
+</a></td>
+  </tr>
   
  </table> 
  
