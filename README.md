@@ -157,6 +157,16 @@ You are free to use them for educational and research purposes.
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
 </a></td>
   </tr>
+
+   <tr>
+    <td class="tg-yw4l">Named Entiry Recognition using Transformer</td>
+    <td class="tg-yw4l">An implementation of Transformer to perform token classification and identify species in PubMed abstracts</td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/12AdzQuOvFMrhlVI92dfaVpttkgBcgWcf?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
+</a><br>
+     <a href="https://www.kaggle.com/code/ritvik1909/named-entity-recognition-attention" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"></a></td>
+  </tr>   
+  
   
  </table> 
  
