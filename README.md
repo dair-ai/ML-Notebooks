@@ -183,7 +183,7 @@ You are free to use them for educational and research purposes.
   </tr>
 
    <tr>
-    <td class="tg-yw4l">Named Entiry Recognition using Transformer</td>
+    <td class="tg-yw4l">Named Entity Recognition using Transformer</td>
     <td class="tg-yw4l">An implementation of Transformer to perform token classification and identify species in PubMed abstracts</td>
     <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/12AdzQuOvFMrhlVI92dfaVpttkgBcgWcf?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
@@ -191,7 +191,14 @@ You are free to use them for educational and research purposes.
      <a href="https://www.kaggle.com/code/ritvik1909/named-entity-recognition-attention" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"></a></td>
   </tr>   
   
-  
+   <tr>
+    <td class="tg-yw4l">Extractive Question Answering using Transformer</td>
+    <td class="tg-yw4l">An implementation of Transformer to perform extractive question answering</td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1Eq3PkrItGTZMTww-wlzume2j4nkQYsdP?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
+</a><br>
+     <a href="https://www.kaggle.com/code/ritvik1909/question-answering-attention/" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"></a></td>
+  </tr>    
  </table> 
  
 If you find any bugs or have any questions regarding these notebooks, please open an issue. We will address it as soon as we can. 
