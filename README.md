@@ -199,7 +199,17 @@ You are free to use them for educational and research purposes.
 </a><br>
      <a href="https://www.kaggle.com/code/ritvik1909/question-answering-attention/" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"></a></td>
   </tr>    
+
+   <tr>
+    <td class="tg-yw4l">Text Data Augmentation</td>
+    <td class="tg-yw4l">An introduction to the most commonly used data augmentation techniques for text and their implementation</td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1kyLaRevVf7VVy9BxJBJaL_ET4wyKSi-S?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
+</a></td>
+  </tr>  
  </table> 
+ 
+ 
  
 If you find any bugs or have any questions regarding these notebooks, please open an issue. We will address it as soon as we can. 
 
