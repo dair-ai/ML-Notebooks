@@ -1,10 +1,8 @@
 # 🐙 ML Notebooks
 
-A series of code examples for all sorts of machine learning tasks and applications.
+A series of code examples for all sorts of machine learning tasks and applications. The notebooks are meant to be minimal and easily reusable and extendable. You are free to use them for educational and research purposes.
 
-The notebooks are meant to be minimal and easily reusable and extendable. 
-
-You are free to use them for educational and research purposes.
+## Getting Started
 
 <table class="tg">
   <tr>
@@ -33,6 +31,14 @@ You are free to use them for educational and research purposes.
     <td class="tg-yw4l">A Gentle Introduction to PyTorch</td>
     <td class="tg-yw4l">A detailed explanation introducing PyTorch concepts</td>
     <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1K7Ks1ERaS-w4rzW_ukeBag8mYRZME1es?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
+</a></td>
+  </tr>
+  
+  <tr>
+    <td class="tg-yw4l">Counterfactual Explanations</td>
+    <td class="tg-yw4l">A basic tutorial to learn about counterfactual explanations for explainable AI</td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1mTSRjqki3VsH9MVPfNtJ5nJxcCHvL8B6?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
 </a></td>
   </tr>
@@ -69,6 +75,24 @@ You are free to use them for educational and research purposes.
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
 </a></td>
   </tr>
+    <tr>
+    <td class="tg-yw4l">Introduction to GNNs</td>
+    <td class="tg-yw4l">Introduction to Graph Neural Networks. Applies basic GCN to Cora dataset for node classification.</td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1d0jLDwgNBtjBVQOFe8lO_1WrqTVeVZx9?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
+</a></td>
+  </tr>
+ 
+  </table> 
+  
+  
+## NLP  
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l"><b>Name</b></th>
+    <th class="tg-yw4l"><b>Description</b></th>
+    <th class="tg-yw4l"><b>Notebook</b></th>
+  </tr>
   
   <tr>
     <td class="tg-yw4l">Bag of Words Text Classifier</td>
@@ -93,14 +117,15 @@ You are free to use them for educational and research purposes.
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
 </a></td>
   </tr>
+ 
   
   <tr>
-    <td class="tg-yw4l">Introduction to GNNs</td>
-    <td class="tg-yw4l">Introduction to Graph Neural Networks. Applies basic GCN to Cora dataset for node classification.</td>
-    <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1d0jLDwgNBtjBVQOFe8lO_1WrqTVeVZx9?usp=sharing">
+    <td class="tg-yw4l">Text Data Augmentation</td>
+    <td class="tg-yw4l">An introduction to the most commonly used data augmentation techniques for text and their implementation</td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1kyLaRevVf7VVy9BxJBJaL_ET4wyKSi-S?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
 </a></td>
-  </tr>
+  </tr>  
   
   <tr>
     <td class="tg-yw4l">Emotion Classification with Fine-tuned BERT</td>
@@ -108,6 +133,17 @@ You are free to use them for educational and research purposes.
     <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1nwCE6b9PXIKhv2hvbqf1oZKIGkXMTi1X?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
 </a></td>
+  </tr>
+  
+  </table> 
+
+## Transformers
+ <table class="tg"> 
+  
+  <tr>
+    <th class="tg-yw4l"><b>Name</b></th>
+    <th class="tg-yw4l"><b>Description</b></th>
+    <th class="tg-yw4l"><b>Notebook</b></th>
   </tr>
   
    <tr>
@@ -120,6 +156,51 @@ You are free to use them for educational and research purposes.
   </tr>
 
    <tr>
+    <td class="tg-yw4l">Neural Machine Translation using Transformer</td>
+    <td class="tg-yw4l">An implementation of Transformer to translate human readabke dates in any format to YYYY-MM-DD format.</td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1Y6JhWMmgU52MU9vyrOnHf6iK760Qx35h?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
+</a><br>
+     <a href="https://www.kaggle.com/code/ritvik1909/neural-machine-translation-attention" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"></a></td>
+  </tr>   
+
+   <tr>
+    <td class="tg-yw4l">Feature Tokenizer Transformer</td>
+    <td class="tg-yw4l">An implementation of Feature Tokenizer Transformer on a classification task</td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1tdPifaZCTVpjzCh1FOyGPywMEfrbBZLh?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
+</a><br>
+     <a href="https://www.kaggle.com/code/ritvik1909/feature-tokenizer-transformer/" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"></a></td>
+  </tr>     
+
+   <tr>
+    <td class="tg-yw4l">Named Entity Recognition using Transformer</td>
+    <td class="tg-yw4l">An implementation of Transformer to perform token classification and identify species in PubMed abstracts</td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/12AdzQuOvFMrhlVI92dfaVpttkgBcgWcf?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
+</a><br>
+     <a href="https://www.kaggle.com/code/ritvik1909/named-entity-recognition-attention" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"></a></td>
+  </tr>   
+  
+   <tr>
+    <td class="tg-yw4l">Extractive Question Answering using Transformer</td>
+    <td class="tg-yw4l">An implementation of Transformer to perform extractive question answering</td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1Eq3PkrItGTZMTww-wlzume2j4nkQYsdP?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
+</a><br>
+     <a href="https://www.kaggle.com/code/ritvik1909/question-answering-attention/" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"></a></td>
+  </tr>    
+ </table> 
+ 
+## Computer Vision
+
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l"><b>Name</b></th>
+    <th class="tg-yw4l"><b>Description</b></th>
+    <th class="tg-yw4l"><b>Notebook</b></th>
+  </tr>
+  <tr>
     <td class="tg-yw4l">Siamese Network</td>
     <td class="tg-yw4l">An implementation of Siamese Network for finding Image Similarity</td>
     <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1sn7BDKVvi8-Ng37gvfyNw8OCf8kZY91o?usp=sharing">
@@ -153,62 +234,10 @@ You are free to use them for educational and research purposes.
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
 </a><br>
      <a href="https://www.kaggle.com/code/ritvik1909/object-detection-selective-search" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"></a></td>
-  </tr>    
-
-   <tr>
-    <td class="tg-yw4l">Neural Machine Translation using Transformer</td>
-    <td class="tg-yw4l">An implementation of Transformer to translate human readabke dates in any format to YYYY-MM-DD format.</td>
-    <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1Y6JhWMmgU52MU9vyrOnHf6iK760Qx35h?usp=sharing">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
-</a><br>
-     <a href="https://www.kaggle.com/code/ritvik1909/neural-machine-translation-attention" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"></a></td>
-  </tr>   
-
-
-   <tr>
-    <td class="tg-yw4l">Feature Tokenizer Transformer</td>
-    <td class="tg-yw4l">An implementation of Feature Tokenizer Transformer on a classification task</td>
-    <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1tdPifaZCTVpjzCh1FOyGPywMEfrbBZLh?usp=sharing">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
-</a><br>
-     <a href="https://www.kaggle.com/code/ritvik1909/feature-tokenizer-transformer/" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"></a></td>
-  </tr>     
-  
-   <tr>
-    <td class="tg-yw4l">Counterfactual Explanations</td>
-    <td class="tg-yw4l">A basic tutorial to learn about counterfactual explanations for explainable AI</td>
-    <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1mTSRjqki3VsH9MVPfNtJ5nJxcCHvL8B6?usp=sharing">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
-</a></td>
-  </tr>
-
-   <tr>
-    <td class="tg-yw4l">Named Entity Recognition using Transformer</td>
-    <td class="tg-yw4l">An implementation of Transformer to perform token classification and identify species in PubMed abstracts</td>
-    <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/12AdzQuOvFMrhlVI92dfaVpttkgBcgWcf?usp=sharing">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
-</a><br>
-     <a href="https://www.kaggle.com/code/ritvik1909/named-entity-recognition-attention" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"></a></td>
-  </tr>   
-  
-   <tr>
-    <td class="tg-yw4l">Extractive Question Answering using Transformer</td>
-    <td class="tg-yw4l">An implementation of Transformer to perform extractive question answering</td>
-    <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1Eq3PkrItGTZMTww-wlzume2j4nkQYsdP?usp=sharing">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
-</a><br>
-     <a href="https://www.kaggle.com/code/ritvik1909/question-answering-attention/" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"></a></td>
-  </tr>    
-
-   <tr>
-    <td class="tg-yw4l">Text Data Augmentation</td>
-    <td class="tg-yw4l">An introduction to the most commonly used data augmentation techniques for text and their implementation</td>
-    <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1kyLaRevVf7VVy9BxJBJaL_ET4wyKSi-S?usp=sharing">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
-</a></td>
   </tr>  
- </table> 
- 
+  
+</table> 
+
  
  
 If you find any bugs or have any questions regarding these notebooks, please open an issue. We will address it as soon as we can. 
