@@ -272,6 +272,9 @@ A series of code examples for all sorts of machine learning tasks and applicatio
   
 </table>
  
+ 
+---
+
 If you find any bugs or have any questions regarding these notebooks, please open an issue. We will address it as soon as we can. 
 
 Reach out on [Twitter](https://twitter.com/omarsar0) if you have any questions. 
