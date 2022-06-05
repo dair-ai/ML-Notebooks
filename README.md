@@ -238,7 +238,39 @@ A series of code examples for all sorts of machine learning tasks and applicatio
   
 </table> 
 
- 
+## Generative Adversarial Network
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l"><b>Name</b></th>
+    <th class="tg-yw4l"><b>Description</b></th>
+    <th class="tg-yw4l"><b>Notebook</b></th>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Deep Convolutional GAN</td>
+    <td class="tg-yw4l">An Implementation of Deep Convolutional GAN to generate MNIST digits</td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1ss9FCHvI0ZAuS1PJL6RxlgEhM_glZR6S?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
+</a><br>
+     <a href="https://www.kaggle.com/code/ritvik1909/deep-convolutional-gan/" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"></a></td>
+  </tr>  
+  <tr>
+    <td class="tg-yw4l">Wasserstein GAN with Gradient Penalty</td>
+    <td class="tg-yw4l">An Implementation of Wasserstein GAN with Gradient Penalty to generate MNIST digits</td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1x7aDlxkv3PYev2AsmZRl8pII2zsY_DVs?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
+</a><br>
+     <a href="https://www.kaggle.com/code/ritvik1909/wasserstein-gan-with-gradient-penalty/" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"></a></td>
+  </tr>  
+  <tr>
+    <td class="tg-yw4l">Conditional GAN</td>
+    <td class="tg-yw4l">An Implementation of Conditional GAN to generate MNIST digits</td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1Z74CpEu76e6A62gxKXIJ8u8xyVjF21_k?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
+</a><br>
+     <a href="https://www.kaggle.com/code/ritvik1909/conditional-gan/" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"></a></td>
+  </tr>  
+  
+</table>
  
 If you find any bugs or have any questions regarding these notebooks, please open an issue. We will address it as soon as we can. 
 
