@@ -1,6 +1,6 @@
 # 🐙 ML Notebooks
 
-A series of code examples for all sorts of machine learning tasks and applications. The notebooks are meant to be minimal and easily reusable and extendable. You are free to use them for educational and research purposes.
+Contains code examples for all sorts of machine learning tasks and applications. The notebooks are meant to be minimal and easily reusable and extendable. You are free to use them for educational and research purposes.
 
 ## Getting Started
 
