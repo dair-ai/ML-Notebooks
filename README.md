@@ -43,7 +43,7 @@ Contains code examples for all sorts of machine learning tasks and applications.
 </a></td>
   </tr>
 
-    <tr>
+  <tr>
     <td class="tg-yw4l">Linear Regression from Scratch</td>
     <td class="tg-yw4l">An implementation of linear regression from scratch using stochastic gradient descent</td>
     <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1br0hM79ORTVNXUpVgkV5t4o4AigGxfwk?usp=sharing">
