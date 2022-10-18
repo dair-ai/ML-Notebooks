@@ -49,7 +49,6 @@
 	"features": {
 		"docker-in-docker": "latest",
 		"github-cli": "latest",
-		"homebrew": "latest",
-		"jupyterlab": "latest"
+		"homebrew": "latest"
 	}
 }
