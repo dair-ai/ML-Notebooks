@@ -1,6 +1,12 @@
 # 🐙 ML Notebooks
 
-Contains code examples for all sorts of machine learning tasks and applications. The notebooks are meant to be minimal and easily reusable and extendable. You are free to use them for educational and research purposes.
+This repo contains code examples for different machine learning tasks and applications. The notebooks are meant to be minimal and easily reusable and extendable. You are free to use them for educational and research purposes.
+
+This repo supports Codespaces! 
+- Spin up a new instance by clicking on the green `"<> Code"` button followed by the `"Configure and create codespace"` option. Make sure to select the dev container config provided with this repo. This setups an environment with all the dependencies installed and ready to go.
+- Once the codespace is full running, you can install all the libraries you will need to run the notebooks under the `notebooks` folder. Open up a terminal and simply run `conda create --name myenv --file spec-file.txt`.
+
+---
 
 ## Getting Started
 
