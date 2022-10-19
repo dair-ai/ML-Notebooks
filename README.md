@@ -4,7 +4,9 @@ This repo contains code examples for different machine learning tasks and applic
 
 This repo supports Codespaces! 
 - Spin up a new instance by clicking on the green `"<> Code"` button followed by the `"Configure and create codespace"` option. Make sure to select the dev container config provided with this repo. This setups an environment with all the dependencies installed and ready to go.
-- Once the codespace is full running, you can install all the libraries you will need to run the notebooks under the `notebooks` folder. Open up a terminal and simply run `conda create --name myenv --file spec-file.txt`.
+- Once the codespace is fully running, you can install all the libraries you will need to run the notebooks under the `/notebooks` folder. Open up a terminal and simply run `conda create --name myenv --file spec-file.txt` to install all the Python libraries including PyTorch.
+- Activate your environment `conda activate myenv`. *You might need to run `conda init zsh` or whatever shell you are using... and then close + reopen terminal.*
+- Finally you can try out if everything is working by opening a notebook such as `/notebooks/bow.ipynb`.
 
 ---
 
