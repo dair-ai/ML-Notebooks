@@ -288,7 +288,30 @@ This repo supports Codespaces!
   
 </table>
  
- 
+ ## LLM Fine-tuning
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l"><b>Name</b></th>
+    <th class="tg-yw4l"><b>Description</b></th>
+    <th class="tg-yw4l"><b>Notebook</b></th>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Finetuning with LoRA</td>
+    <td class="tg-yw4l">Finetuning a Transformer Model using LoRA</td>
+    <td class="tg-yw4l"><a href="https://www.kaggle.com/code/ritvik1909/finetuning-with-lora/" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"></a></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Finetuning TinyLlama 1.1B</td>
+    <td class="tg-yw4l">Finetuning TinyLlama 1.1B using QLoRA</td>
+    <td class="tg-yw4l"><a href="https://www.kaggle.com/code/ritvik1909/finetuning-tinyllama-1-1b/" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"></a></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Finetuning Mistral 7B</td>
+    <td class="tg-yw4l">Finetuning Mistral 7B using QLoRA</td>
+    <td class="tg-yw4l"><a href="https://www.kaggle.com/code/ritvik1909/finetuning-mistral-7b/" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"></a></td>
+  </tr>
+</table>
+
 ---
 
 If you find any bugs or have any questions regarding these notebooks, please open an issue. We will address it as soon as we can. 
