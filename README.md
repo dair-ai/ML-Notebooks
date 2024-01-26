@@ -295,11 +295,11 @@ This repo supports Codespaces!
     <th class="tg-yw4l"><b>Description</b></th>
     <th class="tg-yw4l"><b>Notebook</b></th>
   </tr>
-  <tr>
+  <!-- <tr>
     <td class="tg-yw4l">Finetuning with LoRA</td>
     <td class="tg-yw4l">Finetuning a Transformer Model using LoRA</td>
     <td class="tg-yw4l"><a href="https://www.kaggle.com/code/ritvik1909/finetuning-with-lora/" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"></a></td>
-  </tr>
+  </tr> -->
   <tr>
     <td class="tg-yw4l">Finetuning TinyLlama 1.1B</td>
     <td class="tg-yw4l">Finetuning TinyLlama 1.1B using QLoRA</td>
