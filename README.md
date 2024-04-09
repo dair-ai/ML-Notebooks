@@ -288,28 +288,51 @@ This repo supports Codespaces!
   
 </table>
  
- ## LLM Fine-tuning
+  ## Parameter Efficient Fine-tuning
+
 <table class="tg">
   <tr>
     <th class="tg-yw4l"><b>Name</b></th>
     <th class="tg-yw4l"><b>Description</b></th>
     <th class="tg-yw4l"><b>Notebook</b></th>
   </tr>
-  <!-- <tr>
-    <td class="tg-yw4l">Finetuning with LoRA</td>
-    <td class="tg-yw4l">Finetuning a Transformer Model using LoRA</td>
-    <td class="tg-yw4l"><a href="https://www.kaggle.com/code/ritvik1909/finetuning-with-lora/" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"></a></td>
-  </tr> -->
   <tr>
-    <td class="tg-yw4l">Finetuning TinyLlama 1.1B</td>
-    <td class="tg-yw4l">Finetuning TinyLlama 1.1B using QLoRA</td>
-    <td class="tg-yw4l"><a href="https://www.kaggle.com/code/ritvik1909/finetuning-tinyllama-1-1b/" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"></a></td>
+    <td class="tg-yw4l">LoRA BERT</td>
+    <td class="tg-yw4l">An Implementation of BERT Finetuning using LoRA</td>
+    <td class="tg-yw4l">
+     <a href="https://www.kaggle.com/code/ritvik1909/lora-bert/" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"></a></td>
   </tr>
   <tr>
-    <td class="tg-yw4l">Finetuning Mistral 7B</td>
-    <td class="tg-yw4l">Finetuning Mistral 7B using QLoRA</td>
-    <td class="tg-yw4l"><a href="https://www.kaggle.com/code/ritvik1909/finetuning-mistral-7b/" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"></a></td>
+    <td class="tg-yw4l">LoRA BERT NER</td>
+    <td class="tg-yw4l">An Implementation of BERT Finetuning using LoRA for token classification task</td>
+    <td class="tg-yw4l">
+     <a href="https://www.kaggle.com/code/ritvik1909/lora-bert-ner/" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"></a></td>
   </tr>
+  <tr>
+    <td class="tg-yw4l">LoRA T5</td>
+    <td class="tg-yw4l">An Implementation of T5 Finetuning using LoRA</td>
+    <td class="tg-yw4l">
+     <a href="https://www.kaggle.com/code/ritvik1909/lora-t5/" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"></a></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">LoRA TinyLlama 1.1B</td>
+    <td class="tg-yw4l">An Implementation of TinyLlama 1.1B Finetuning using LoRA</td>
+    <td class="tg-yw4l">
+     <a href="https://www.kaggle.com/code/ritvik1909/lora-tinyllama-1-1b/" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"></a></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">QLoRA TinyLlama 1.1B</td>
+    <td class="tg-yw4l">An Implementation of TinyLlama 1.1B Finetuning using QLoRA</td>
+    <td class="tg-yw4l">
+     <a href="https://www.kaggle.com/code/ritvik1909/qlora-tinyllama-1-1b/" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"></a></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">QLoRA Mistral 7B</td>
+    <td class="tg-yw4l">An Implementation of Mistral 7B Finetuning using QLoRA</td>
+    <td class="tg-yw4l">
+     <a href="https://www.kaggle.com/code/ritvik1909/qlora-mistral-7b/" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"></a></td>
+  </tr>
+
 </table>
 
 ---
